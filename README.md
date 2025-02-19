@@ -54,4 +54,4 @@ The **Movie Ticket Booking System** is a C++ application designed to simulate a 
 ### **🛠️ Compilation**
 Compile the program using a **C++ compiler**. Example using **GCC**:
 ```bash
-g++ -o Movie_Ticket_Booking_System main.cpp
+g++ -o Movie_Ticket_Booking_Design main.cpp
